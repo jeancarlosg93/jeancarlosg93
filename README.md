@@ -13,8 +13,8 @@ Trilingual software developer with hands-on experience in full-stack development
 ## 🚀 Featured Projects
 
 ### AdoptionHub - Pet Adoption Management System
-- Full-stack C# application using .NET MVC with MySQL database integration
-- Implemented secure user authentication and role-based access control
+- Collaborated with a team of developers to create a full-stack C# application using .NET MVC and MySQL
+- Contributed to the implementation of user authentication system and role-based access management
 
 ### Pet Adoption API
 - Built comprehensive REST API using Spring Boot with H2 in-memory database
