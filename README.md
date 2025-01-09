@@ -8,13 +8,15 @@ Trilingual software developer with hands-on experience in full-stack development
 - **Web Technologies**: HTML, Bootstrap, Flutter
 - **Frameworks**: .NET MVC, Spring Boot
 - **Databases**: MySQL, SQL Server
-- **Tools & Platforms**: Git, Docker, Linux, Trello
+- **Tools & Platforms**: Git, Docker, Linux, Trello, figma, 
 
 ## 🚀 Featured Projects
 
 ### AdoptionHub - Pet Adoption Management System
 - Full-stack C# application using .NET MVC with MySQL database integration
 - Implemented secure user authentication and role-based access control
+
+### Pet Adoption API
 - Built comprehensive REST API using Spring Boot with H2 in-memory database
 
 ### VanierApp - Student Management System
@@ -53,7 +55,6 @@ Trilingual software developer with hands-on experience in full-stack development
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeancarlosg93)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeancarlosg93)
 
 ---
 
