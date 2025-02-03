@@ -5,8 +5,8 @@ Trilingual software developer with hands-on experience in full-stack development
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Java, C#, Dart
-- **Web Technologies**: HTML, Bootstrap, Flutter
-- **Frameworks**: .NET MVC, Spring Boot
+- **Web Technologies**: HTML, Bootstrap
+- **Frameworks**: .NET MVC, Spring Boot, Flutter
 - **Databases**: MySQL, SQL Server
 - **Tools & Platforms**: Git, Docker, Linux, Trello, figma, 
 
